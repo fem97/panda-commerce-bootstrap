@@ -1,0 +1,27 @@
+.panda-card{
+    border: none;
+}
+.panda-card-footer{
+    border: none;
+    background-color: white;
+}
+
+.carousel-section{
+    margin-top: 7rem;
+}
+.customize-carousel-item{
+    background-color: #FEEAE9;
+    border-radius: 10px;
+}
+.custom-btn{
+    background-image: linear-gradient(#FF4991, #FF2279);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+}
+.custom-stay-connected{
+    height: 300px;
+    background-color: #FEEAE9;
+    border-radius: 10px;
+}
+
